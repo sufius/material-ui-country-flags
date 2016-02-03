@@ -7,9 +7,9 @@
  */
 
  module.exports = {
-   BG: require('./src/BG.jsx'),
-   DE: require('./src/DE.jsx'),
-   FR: require('./src/FR.jsx'),
-   IN: require('./src/IN.jsx'),
-   US: require('./src/US.jsx'),
+   Icon_Flag_BG: require('./src/BG.jsx'),
+   Icon_Flag_DE: require('./src/DE.jsx'),
+   Icon_Flag_FR: require('./src/FR.jsx'),
+   Icon_Flag_IN: require('./src/IN.jsx'),
+   Icon_Flag_US: require('./src/US.jsx'),
  }

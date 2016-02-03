@@ -29,7 +29,8 @@
     "url": "https://github.com/codefoundries/material-ui-country-flags/issues"
   },
   "dependencies": {
-    "material-ui": "~0.14.4"
+    "material-ui": "~0.14.4",
+    "react": "^0.14.7"
   },
   "devDependencies": {
     "mocha": "~1.16.2",
