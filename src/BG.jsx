@@ -4,7 +4,7 @@ var SvgIcon = require('material-ui/lib/svg-icon')
 // SVG source:
 // https://github.com/lipis/flag-icon-css/tree/master/flags/4x3
 
-export default function(props)
+module.exports = function(props)
 {
   return(
     <SvgIcon viewBox="0 0 640 480" {...props}>

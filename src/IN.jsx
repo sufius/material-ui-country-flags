@@ -32,7 +32,7 @@ The following piece of the flag causes a syntax error. It would be invisible in 
 
 */
 
-export default function(props)
+module.exports = function(props)
 {
   return(
     <SvgIcon viewBox="0 0 640 480" {...props}>
