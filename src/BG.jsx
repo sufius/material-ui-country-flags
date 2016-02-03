@@ -1,6 +1,5 @@
-import React from 'react';
-
-import SvgIcon from 'material-ui/lib/svg-icon';
+var React = require('react')
+var SvgIcon = require('material-ui/lib/svg-icon')
 
 // SVG source:
 // https://github.com/lipis/flag-icon-css/tree/master/flags/4x3
