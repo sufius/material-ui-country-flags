@@ -28,6 +28,9 @@
   "bugs": {
     "url": "https://github.com/codefoundries/material-ui-country-flags/issues"
   },
+  "dependencies": {
+    "material-ui": "~0.14.4"
+  },
   "devDependencies": {
     "mocha": "~1.16.2",
     "chai": "~1.8.1"
