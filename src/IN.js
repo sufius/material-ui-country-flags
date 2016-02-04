@@ -1,3 +1,5 @@
+'use strict';
+
 var React = require('react')
 var SvgIcon = require('material-ui/lib/svg-icon')
 
