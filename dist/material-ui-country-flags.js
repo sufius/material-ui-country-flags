@@ -14,14 +14,14 @@
  */
 
  module.exports = {
-   Icon_Flag_BG: require('./BG.js'),
-   Icon_Flag_DE: require('./DE.js'),
-   Icon_Flag_FR: require('./FR.js'),
-   Icon_Flag_IN: require('./IN.js'),
-   Icon_Flag_US: require('./US.js'),
+   Icon_Flag_BG: require('./Icon_Flag_BG.js'),
+   Icon_Flag_DE: require('./Icon_Flag_DE.js'),
+   Icon_Flag_FR: require('./Icon_Flag_FR.js'),
+   Icon_Flag_IN: require('./Icon_Flag_IN.js'),
+   Icon_Flag_US: require('./Icon_Flag_US.js'),
  }
 
-},{"./BG.js":2,"./DE.js":3,"./FR.js":4,"./IN.js":5,"./US.js":6}],2:[function(require,module,exports){
+},{"./Icon_Flag_BG.js":2,"./Icon_Flag_DE.js":3,"./Icon_Flag_FR.js":4,"./Icon_Flag_IN.js":5,"./Icon_Flag_US.js":6}],2:[function(require,module,exports){
 'use strict';
 
 var React = (typeof window !== "undefined" ? window['React'] : typeof global !== "undefined" ? global['React'] : null)
