@@ -1,6 +1,6 @@
 {
   "name": "material-ui-country-flags",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Country flag icons for Material-UI",
   "main": "./lib/index.js",
   "standalone": "CountryFlags",
