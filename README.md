@@ -9,7 +9,7 @@ Library with country flag icons for Material-UI.
   npm install material-ui-country-flags --save
 ```
 
-## Usage - ES6
+## Usage
 
 ```javascript
 import React from 'react';
@@ -34,6 +34,8 @@ class MyComponent extends React.Component
 }
 
 ```
+
+For list of icons refer to [the src folder](src/).
 
 More detailed example [isomorphic-material-relay-starter-kit](https://github.com/codefoundries/isomorphic-material-relay-starter-kit/blob/master/webapp/components/AppBar_Language.jsx).
 
