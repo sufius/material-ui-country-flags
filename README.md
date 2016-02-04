@@ -1,7 +1,7 @@
 material-ui-country-flags
 =========================
 
-Library with country flag icons for [Material-UI](http://www.material-ui.com/#/). Initially created for use in [Isomorphic Material Relay Starter Kit (IMRSK)](https://github.com/codefoundries/isomorphic-material-relay-starter-kit) by [Code Foundries](http://codefoundries.com/).
+Library with country flag icons for [Material-UI](http://www.material-ui.com/#/). Initially created for use in [Isomorphic Material Relay Starter Kit (IMRSK)](https://github.com/codefoundries/isomorphic-material-relay-starter-kit) by [Code Foundries](http://codefoundries.com/). The boilerplate for the npm package is from [insin/templates/react-module/](https://github.com/insin/templates/tree/master/react-module).
 
 ## Installation
 
