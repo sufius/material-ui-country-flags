@@ -1,6 +1,6 @@
 {
   "name": "material-ui-country-flags",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Country flag icons for Material-UI",
   "main": "./lib/index.js",
   "standalone": "CountryFlags",
@@ -30,7 +30,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "material-ui": "~0.14.4",
+    "material-ui": "^0.14.4",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
     "react-tap-event-plugin": "^0.2.0"

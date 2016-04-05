@@ -9,9 +9,9 @@
  */
 
  module.exports = {
-   Icon_Flag_BG: require('./Icon_Flag_BG.js'),
-   Icon_Flag_DE: require('./Icon_Flag_DE.js'),
-   Icon_Flag_FR: require('./Icon_Flag_FR.js'),
-   Icon_Flag_IN: require('./Icon_Flag_IN.js'),
-   Icon_Flag_US: require('./Icon_Flag_US.js'),
+   Icon_Flag_BG: require('./Icon_Flag_BG.js').default,
+   Icon_Flag_DE: require('./Icon_Flag_DE.js').default,
+   Icon_Flag_FR: require('./Icon_Flag_FR.js').default,
+   Icon_Flag_IN: require('./Icon_Flag_IN.js').default,
+   Icon_Flag_US: require('./Icon_Flag_US.js').default,
  }

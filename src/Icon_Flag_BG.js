@@ -1,7 +1,7 @@
 'use strict';
 
 var React = require('react')
-var SvgIcon = require('material-ui/lib/svg-icon')
+var SvgIcon = require('material-ui/lib/svg-icon').default
 
 // SVG source:
 // https://github.com/lipis/flag-icon-css/tree/master/flags/4x3
