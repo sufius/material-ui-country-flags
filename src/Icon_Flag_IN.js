@@ -1,7 +1,7 @@
 'use strict';
 
-var React = require('react')
-var SvgIcon = require('material-ui/lib/svg-icon')
+import React from 'react';
+import SvgIcon from 'material-ui/lib/svg-icon';
 
 // SVG source:
 // https://github.com/lipis/flag-icon-css/tree/master/flags/4x3
@@ -36,7 +36,7 @@ Possibly re-evaluate with React 15
 
 */
 
-module.exports = function(props)
+export default function( props )
 {
   return(
     <SvgIcon viewBox="0 0 640 480" {...props}>

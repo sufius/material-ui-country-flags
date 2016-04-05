@@ -8,10 +8,8 @@
  * Licensed under the MIT license.
  */
 
- module.exports = {
-   Icon_Flag_BG: require('./Icon_Flag_BG.js'),
-   Icon_Flag_DE: require('./Icon_Flag_DE.js'),
-   Icon_Flag_FR: require('./Icon_Flag_FR.js'),
-   Icon_Flag_IN: require('./Icon_Flag_IN.js'),
-   Icon_Flag_US: require('./Icon_Flag_US.js'),
- }
+ export Icon_Flag_BG from './Icon_Flag_BG';
+ export Icon_Flag_DE from './Icon_Flag_DE';
+ export Icon_Flag_FR from './Icon_Flag_FR';
+ export Icon_Flag_IN from './Icon_Flag_IN';
+ export Icon_Flag_US from './Icon_Flag_US';
