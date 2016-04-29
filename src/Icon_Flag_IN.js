@@ -1,7 +1,7 @@
 'use strict';
 
 import React from 'react';
-import SvgIcon from 'material-ui/lib/svg-icon';
+import SvgIcon from 'material-ui/SvgIcon';
 
 // SVG source:
 // https://github.com/lipis/flag-icon-css/tree/master/flags/4x3

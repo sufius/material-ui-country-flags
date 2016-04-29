@@ -1,13 +1,18 @@
 material-ui-country-flags
 =========================
 
-Library with country flag icons for [Material-UI](http://www.material-ui.com/#/). Initially created for use in [Isomorphic Material Relay Starter Kit (IMRSK)](https://github.com/codefoundries/isomorphic-material-relay-starter-kit) by [Code Foundries](http://codefoundries.com/).
+Library with country flag icons for [Material-UI](http://www.material-ui.com/#/). Initially created for use in [Universal Relay Boilerplate](https://github.com/codefoundries/UniversalRelayBoilerplate) by [Code Foundries](http://codefoundries.com/).
 
 ## Installation
 
 ```shell
   npm install material-ui-country-flags --save
 ```
+
+## Versions
+
+For React 0.14 and Material-UI 0.14 please use version 2.
+For React 15 and Material-UI 0.15 please use version 3 and above.
 
 ## Usage
 
@@ -41,7 +46,7 @@ For list of icons refer to [the src folder](src/).
 
 * [Live demo](http://isomorphic-material-relay.herokuapp.com/mui/icons_country_flags).
 
-* [Source Code](https://github.com/codefoundries/isomorphic-material-relay-starter-kit/blob/master/units/starter-kit-example-mui/webapp/components/MUI_Icons_CountryFlags.jsx) of live demo.
+* [Source Code](https://github.com/codefoundries/UniversalRelayBoilerplate/blob/master/units/starter-kit-example-mui/webapp/components/MUI_Icons_CountryFlags.jsx) of live demo.
 
 
 ## Contributing
