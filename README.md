@@ -44,7 +44,7 @@ For more information:
 
 For list of icons refer to [the src folder](src/).
 
-* [Live demo](http://isomorphic-material-relay.herokuapp.com/mui/icons_country_flags).
+* [Live demo](http://universal-relay-boilerplate.herokuapp.com/mui/icons_country_flags).
 
 * [Source Code](https://github.com/codefoundries/UniversalRelayBoilerplate/blob/master/units/starter-kit-example-mui/webapp/components/MUI_Icons_CountryFlags.jsx) of live demo.
 
